@@ -58,4 +58,3 @@ if st.button("🧠 Generate Voice"):
             st.success("✅ Speech generated!")
             st.audio(output_path)
 
-!pip install -q streamlit
