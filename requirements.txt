@@ -1,5 +1,5 @@
-streamlit==1.35.0
-TTS==0.22.0
-numpy==1.24.3
-pandas==1.5.3
-networkx==2.8.8
+streamlit
+TTS
+numpy
+pandas
+networkx
