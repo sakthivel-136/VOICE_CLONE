@@ -1,5 +1,8 @@
 streamlit
 TTS
+torch
+torchaudio
 numpy
-pandas
-networkx
+scipy
+unidecode
+pydub
